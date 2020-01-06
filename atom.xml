@@ -6,7 +6,7 @@
   <link href="/mylabs/atom.xml" rel="self"/>
   
   <link href="mrhmt80.github.io/"/>
-  <updated>2020-01-04T10:39:51.709Z</updated>
+  <updated>2020-01-06T12:47:50.614Z</updated>
   <id>mrhmt80.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Belajar Buat Blog Pake Hexo - Perhexo an Part 2</title>
-    <link href="mrhmt80.github.io/2020/01/04/Belajar-Buat-Blog-Pake-Hexo-Perhexo-an-Part-2/"/>
-    <id>mrhmt80.github.io/2020/01/04/Belajar-Buat-Blog-Pake-Hexo-Perhexo-an-Part-2/</id>
-    <published>2020-01-03T18:37:58.000Z</published>
-    <updated>2020-01-04T10:39:51.709Z</updated>
+    <title>Laporan Praktikum - Simulasi Setting Jaringan Komputer pada Kantor Menggunakan Mikrotik</title>
+    <link href="mrhmt80.github.io/2020/01/06/Laporan-Praktikum-Simulasi-Setting-Jaringan-Komputer-pada-Kantor-Menggunakan-Mikrotik/"/>
+    <id>mrhmt80.github.io/2020/01/06/Laporan-Praktikum-Simulasi-Setting-Jaringan-Komputer-pada-Kantor-Menggunakan-Mikrotik/</id>
+    <published>2020-01-06T12:47:01.000Z</published>
+    <updated>2020-01-06T12:47:50.614Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,53 @@
       
         
         
-          &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0-TSJEBKuoQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay;
+          &lt;p&gt;berikut link download &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Modul Presentasi - Haproxy</title>
+    <link href="mrhmt80.github.io/2020/01/06/Modul-Presentasi-Haproxy/"/>
+    <id>mrhmt80.github.io/2020/01/06/Modul-Presentasi-Haproxy/</id>
+    <published>2020-01-06T12:41:49.000Z</published>
+    <updated>2020-01-06T12:42:21.039Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;berikut link : &lt;a href=&quot;https://www.academia.edu/41533502/HAPROXY&quot;&gt;Download
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Belajar Buat Blog Pake Hexo - Perhexo an Part 2</title>
+    <link href="mrhmt80.github.io/2020/01/04/Belajar-Buat-Blog-Pake-Hexo-Perhexo-an-Part-2/"/>
+    <id>mrhmt80.github.io/2020/01/04/Belajar-Buat-Blog-Pake-Hexo-Perhexo-an-Part-2/</id>
+    <published>2020-01-03T18:37:58.000Z</published>
+    <updated>2020-01-04T10:55:48.460Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;iframe width=&quot;500&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0-TSJEBKuoQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay;
         
       
     
@@ -44,7 +90,7 @@
     <link href="mrhmt80.github.io/2019/12/29/Dokumentasi-Acara-Webinar-MQA-Malang-Build-Web-App-Using-Laravel/"/>
     <id>mrhmt80.github.io/2019/12/29/Dokumentasi-Acara-Webinar-MQA-Malang-Build-Web-App-Using-Laravel/</id>
     <published>2019-12-29T13:24:52.000Z</published>
-    <updated>2019-12-29T13:31:34.892Z</updated>
+    <updated>2020-01-04T10:57:38.895Z</updated>
     
     <summary type="html">
     
@@ -53,8 +99,7 @@
         
         
           &lt;p&gt;berikut hasil dokumentasi praktek belajar buat web app menggunakan laravel&lt;/p&gt;
-&lt;iframe
-     
+&lt;iframe width=&quot;500&quot; height=&quot;315&quot;
         
       
     
@@ -173,7 +218,7 @@
     <link href="mrhmt80.github.io/2019/12/24/Praktikum-Konsep-TI-Docker/"/>
     <id>mrhmt80.github.io/2019/12/24/Praktikum-Konsep-TI-Docker/</id>
     <published>2019-12-23T17:03:09.000Z</published>
-    <updated>2019-12-25T12:47:32.685Z</updated>
+    <updated>2020-01-04T10:58:51.924Z</updated>
     
     <summary type="html">
     
